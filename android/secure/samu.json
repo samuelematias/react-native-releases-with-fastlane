@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-5378537747110653929-967460",
+  "private_key_id": "8948b82e60c2352d5b3bed835ca685d18f3229d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHsRNaEXIl3cjM\notaEKKW9oeM8FTb6y+iF4x2aOLjjY+WSwplRBEuf4faLWu57EOp3TrwY9voM/fcN\nZsUbryaee4mJmZoQnrs6/0fnmfg39OWxDsZ1RaTrpahcY8k9D8lrWCTPMY17UqWi\nWAttsZUqNUuwfU3HzG0Pf/Y9oK8jAGAJ1F7jhOgzOhpL3f9uz8tHre64uuRvV8Nt\ncNj2dgeMHOAP5oQtf4oJ1HaFL85npA04kpZD6u3D/gJugBdRj63u+p5vozydZka5\n8k+siYOvwmS7VMIzGTZqTM5Dhp2pbtFAlzazkvbqu3T0skWCcy5lTPYzFVdUQqLo\nnZXsEMPhAgMBAAECggEAASbmyr1opjplnfUXRdVGcf3q5boFWnxmRa30CfOHcQPe\ns1pZKDINNeGXwpFqaGY2RQyMqhv0ILKvG/oem1iXAWFq72LWBEAnKjmmZnoRWBDL\nCarBNzRY9YVLz6chdj9G4R41vaZ+d4J4O0PU4ovMhY0fx/eMFSHLNAR/5RZ+BiaX\n+0tbc1U0AtzSm4LpSVMM8QzmCCYtyF9koPE4IJ3AOGnKrGvczKKYO2VJJM4RUZlN\nxg9/T33FfnYdspLOeAJRMYDR7LF2hPcQrPaXT1I6rs+BKk7KXifynAtJb26uc597\np88mkVCHRPRns6x243+jthoWkmiFchFdbMPIwHjq0QKBgQDmn3kZTTRDAnCTWTw6\noSa+ldTqLsjQUO+MVSN8BmWtEPplgM3BQHV4mvLbrOUMLOVZm0BOkEJ590mWH78u\nnXRq/Jec3QW/lxMZ9lFoftbNji7/16FeuZZ7GES5yrCGnFyO8fZaQqeR1VrrzayP\n5pxfOBhxVgYdim1ediMK9ZGKUQKBgQDdqkkpcSNBeuB8RK4Cbre5YYDvLT8w/Tw+\nJabTKs2joKpQF/sdPZsQuGGDwsbYSv90Wg8eh/gx9a6EeLu3m+q1jADJG4Po0qLP\n+itG99bZ0rtRt9gBHUqE0QXEKuLzFWkVHzurlXZSAhZpBQ2J9V8RX11IjvTU61pJ\nkJi/sMOskQKBgCsN/KKvmiEkdHXdw/PCICSWflBV+aGCaqZNQrmlzBeaQtTuTftV\nGFkyvEIsrfou64ZmCIRiRDbW5sMDHEMMnC5ZB8j+LlONVcCUDrCudVWcxMN4sySn\nCyPh7Pquj3Qh/tmk7HP/W59LMJUzKZMX33ubUlzeTXf4XuCyt2oVXF1xAoGAKfXw\nP44RNHYERMHjhsZatRcGB0Czc5ycaM9L0zGJF+50DxFbEd/1mKaunviiF5Oq4+Wg\ncxEeJKbzUFRihJFZTuCfzXIN+GbXNzOOObL00usXVpLMqvlWf+npg4byyz1EVSFC\ndGqoqUGH6H1yYKk4Q9uflvqo0h1zS/W5VKArimECgYEAn7x3j9U0mUy/isr6ej73\nNnnjNwnyjmsYuwiN4NSsM8+jXRQBmp1nDazJezfTRvrtSTQmyqu8Yj3kRpG9sGDz\nFm4PcJvnCfirO4viPxKwsT7e/CLZR/wQlol0UFBpOg81Kbhz9LoD2oIL6wPKtbaP\nLsaMhE+AxAvxdUe08EbP9hg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "samu-from-mataraso@api-5378537747110653929-967460.iam.gserviceaccount.com",
+  "client_id": "105405108089522951650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samu-from-mataraso%40api-5378537747110653929-967460.iam.gserviceaccount.com"
+}
