@@ -10,6 +10,8 @@ android/fastlane/* linguist-vendored
 android/Gemfile/* linguist-vendored
 android/Gemfile.lock/* linguist-vendored
 android/fastlane/Fastfile/* linguist-vendored
+android/app/BUCK/* linguist-vendored
+android/keystores/BUCK/* linguist-vendored
 ios/Gemfile/* linguist-vendored
 ios/Gemfile.lock/* linguist-vendored
 ios/UdemyFastlane/* linguist-vendored
