@@ -162,5 +162,5 @@ task copyDownloadableDepsToLibs(type: Copy) {
     from configurations.compile
     into 'libs'
 }
-//deprecated
+//deprecated plugin
 // apply plugin: 'com.google.gms.google-services'
