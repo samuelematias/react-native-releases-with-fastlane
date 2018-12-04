@@ -1,2 +1,6 @@
 *.pbxproj -text
-*.rb linguist-language=JavaScript
+*.js linguist-detectable=true
+android/fastlane/* linguist-vendored
+ios/fastlane/* linguist-vendored
+android/Gemfile/* linguist-vendored
+android/Gemfile.lock/* linguist-vendored
