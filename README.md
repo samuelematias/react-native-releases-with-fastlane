@@ -12,7 +12,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
-In this course teach you how automate beta deployments and releases in react native apps using Fastlane and make use of Continuous integration (CI) and Delivery (CD) with Bitrise.
+In this course it is taught to you how automate beta deployments and releases in react native apps using Fastlane and make use of Continuous integration (CI) and Delivery (CD) with Bitrise.
 
 ![](custom_header_os.png)
 
