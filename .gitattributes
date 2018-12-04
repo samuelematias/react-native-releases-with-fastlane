@@ -1,5 +1,7 @@
 *.pbxproj -text
+#all files with .java extension, now will be recognized how .js extension.
 *.java linguist-language=javascript
+#github will get for for your linguist-static , just those with a linguist-detectable true flag.
 *.js linguist-detectable=true
 *.rb linguist-detectable=false
 *.h linguist-detectable=false
@@ -7,6 +9,7 @@
 *.mm linguist-detectable=false
 *.M linguist-detectable=false
 *.rb linguist-detectable=false
+#github will ignore for your linguist-statics on repo, files in this directories.
 android/fastlane/* linguist-vendored
 android/Gemfile/* linguist-vendored
 android/Gemfile.lock/* linguist-vendored
