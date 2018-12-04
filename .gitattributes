@@ -3,3 +3,4 @@
 android/fastlane/* linguist-vendored
 android/Gemfile/* linguist-vendored
 android/Gemfile.lock/* linguist-vendored
+ios/UdemyFastlane/* linguist-vendored
