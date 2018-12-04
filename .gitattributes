@@ -1,5 +1,10 @@
 *.pbxproj -text
 *.js linguist-detectable=true
+*.rb linguist-detectable=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.mm linguist-detectable=false
+*.M linguist-detectable=false
 android/fastlane/* linguist-vendored
 android/Gemfile/* linguist-vendored
 android/Gemfile.lock/* linguist-vendored
